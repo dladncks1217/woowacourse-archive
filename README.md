@@ -4,8 +4,8 @@
 
 | NO. |     PROJECT      |                                             REPOSITORY                                              |                                  PR                                  | PAIR                                    |
 | :-: | :--------------: | :-------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------: | --------------------------------------- |
-|  1  | 자동차 경주 게임 |    [javascript-racingcar-step1](https://github.com/dladncks1217/javascript-racingcar/tree/step1)    |  [PR](https://github.com/woowacourse/javascript-racingcar/pull/181)  | [첵스](https://github.com/HyeryongChoi) |
-|     |                  |    [javascript-racingcar-step2](https://github.com/dladncks1217/javascript-racingcar/tree/step2)    |  [PR](https://github.com/woowacourse/javascript-racingcar/pull/202)  |                                         |
+|  1  | 자동차 경주 게임 |   [javascript-racingcar-step1](https://github.com/dladncks1217/javascript-racingcar-1/tree/step1)   |  [PR](https://github.com/woowacourse/javascript-racingcar/pull/181)  | [첵스](https://github.com/HyeryongChoi) |
+|     |                  |   [javascript-racingcar-step2](https://github.com/dladncks1217/javascript-racingcar-1/tree/step2)   |  [PR](https://github.com/woowacourse/javascript-racingcar/pull/202)  |                                         |
 |  2  |   행운의 로또    |       [javascript-lotto-step1](https://github.com/dladncks1217/javascript-lotto-1/tree/step1)       |    [PR](https://github.com/woowacourse/javascript-lotto/pull/169)    | [룩소](https://github.com/woo-jk)       |
 |     |                  |       [javascript-lotto-step2](https://github.com/dladncks1217/javascript-lotto-1/tree/step2)       |    [PR](https://github.com/woowacourse/javascript-lotto/pull/241)    |                                         |
 |  3  |   점심 뭐 먹지   |        [javascript-lunch-step1](https://github.com/dladncks1217/javascript-lunch/tree/step1)        |    [PR](https://github.com/woowacourse/javascript-lunch/pull/30)     | [세인](https://github.com/semnil5202)   |
